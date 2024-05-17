@@ -1,0 +1,3 @@
+/workspace/danmaku-engine/CMakeFiles/engine.dir
+/workspace/danmaku-engine/CMakeFiles/edit_cache.dir
+/workspace/danmaku-engine/CMakeFiles/rebuild_cache.dir
